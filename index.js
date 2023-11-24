@@ -1,0 +1,4 @@
+function calcularrank(vitorias, derrotas){
+
+    
+}
